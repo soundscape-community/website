@@ -11,7 +11,7 @@ import wayFinding from '@/static/images/wayFinding.png';
 import beaconFeature from '@/static/images/beaconFeature.png';
 import bgApp from '@/static/images/bgApp.png';
 import buildings from '@/static/images/buildings.png';
-import OpenStreetmap from '@/static/images/OpenStreetmap.png';
+import OpenStreetMap from '@/static/images/OpenStreetMap.png';
 
 import Image from 'next/image';
 
@@ -136,7 +136,7 @@ function FeaturesPage() {
                         </div>
                         <div className="flex flex-col s-laptop:!basis-[30%]  tablet:basis-full mobile:basis-full h-auto py-10"> 
                             <div className="flex justify-center items-center h-48">
-                                <Image className="w-40" src={ OpenStreetmap} alt="Illustration of Open Street Maps Logo, A partially folded map with a large spyglass infornt of it" />
+                                <Image className="w-40" src={ OpenStreetMap } alt="Illustration of Open Street Maps Logo, A partially folded map with a large spyglass infornt of it" />
                             </div> 
                             <h2 className="w-fit bg-transparent py-6 font-semibold text-orange text-xl" >OpenStreetMap</h2>
                             <p className="font-work-sans text-dark-grey">Soundscape uses <a target="_blank" href="https://www.openstreetmap.org/#map=5/38.007/-95.844"><span className="underline">OpenStreetMap</span> <span className="screen-reader-only">(opens in a new tab)</span></a> data, which is a rich and constantly enhanced community-generated mapping platform.</p>
