@@ -1,22 +1,22 @@
 import Image from "next/image";
-import heroBgImg from "@static/images/hero-background.jpg"
+import heroBgImg from "@/static/images/hero-background.jpg"
 
-import STS_LOGO from "@static/images/simplicity-main-logo.png"
-import RPI_LOGO from "@static/images/logo-rpi.png"
-import NCBI_LOGO from "@static/images/logo-ncbi.png"
-import CRNA_LOGO from "@static/images/logo-crna.png"
-import IA_LABS_LOGO from "@static/images/logo-ia-labs.png"
-import NVIBE_LOGO from "@static/images/logo-nvibe.png"
-import PIXELSPACE_LOGO from "@static/images/logo-pixelspace.png"
-import OKEENEA_LOGO from "@static/images/logo-okeenea.png"
+import STS_LOGO from "@/static/images/simplicity-main-logo.png"
+import RPI_LOGO from "@/static/images/logo-rpi.png"
+import NCBI_LOGO from "@/static/images/logo-ncbi.png"
+import CRNA_LOGO from "@/static/images/logo-crna.png"
+import IA_LABS_LOGO from "@/static/images/logo-ia-labs.png"
+import NVIBE_LOGO from "@/static/images/logo-nvibe.png"
+import PIXELSPACE_LOGO from "@/static/images/logo-pixelspace.png"
+import OKEENEA_LOGO from "@/static/images/logo-okeenea.png"
 
-import iPhone14_Map_Showcase from "@static/images/iphone-map-showcase.png"
-import iPhone14_UI_Showcase from "@static/images/iphone-ui-showcase.png"
-import Group_Intro from "@static/images/group-intro.jpg"
+import iPhone14_Map_Showcase from "@/static/images/iphone-map-showcase.png"
+import iPhone14_UI_Showcase from "@/static/images/iphone-ui-showcase.png"
+import Group_Intro from "@/static/images/group-intro.jpg"
 
-import featuresImageOne from "@static/images/home-features-one.png"
-import featuresImageTwo from "@static/images/home-features-two.png"
-import featuresImageThree from "@static/images/home-features-three.png"
+import featuresImageOne from "@/static/images/home-features-one.png"
+import featuresImageTwo from "@/static/images/home-features-two.png"
+import featuresImageThree from "@/static/images/home-features-three.png"
 
 
 export default function Home() {

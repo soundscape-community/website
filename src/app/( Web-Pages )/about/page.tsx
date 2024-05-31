@@ -1,23 +1,23 @@
-import Herofeatures from '@static/images/Herofeatures.jpg';
-import SoundscapeStreetPreview from '@static/images/SoundscapeStreetPreview.png';
-import SoundscapeStreetPreviewSmall from '@static/images/SoundscapeStreetPreviewSmall.png';
+import Herofeatures from '@/static/images/Herofeatures.jpg';
+import SoundscapeStreetPreview from '@/static/images/SoundscapeStreetPreview.png';
+import SoundscapeStreetPreviewSmall from '@/static/images/SoundscapeStreetPreviewSmall.png';
 
-import ftPagefeatures1 from '@static/images/ftPagefeat1.png';
-import ftPagefeatures2 from '@static/images/ftPagefeat2.png';
-import ftPagefeatures3 from '@static/images/ftPagefeat3.png';
+import ftPagefeatures1 from '@/static/images/ftPagefeat1.png';
+import ftPagefeatures2 from '@/static/images/ftPagefeat2.png';
+import ftPagefeatures3 from '@/static/images/ftPagefeat3.png';
 
-import spatialAudio from '@static/images/spatialAudio.png';
-import wayFinding from '@static/images/wayFinding.png';
-import beaconFeature from '@static/images/beaconFeature.png';
-import bgApp from '@static/images/bgApp.png';
-import buildings from '@static/images/buildings.png';
-import OpenStreetmap from '@static/images/OpenStreetmap.png';
+import spatialAudio from '@/static/images/spatialAudio.png';
+import wayFinding from '@/static/images/wayFinding.png';
+import beaconFeature from '@/static/images/beaconFeature.png';
+import bgApp from '@/static/images/bgApp.png';
+import buildings from '@/static/images/buildings.png';
+import OpenStreetmap from '@/static/images/OpenStreetmap.png';
 
 import Image from 'next/image';
 
-import AboutUsHero from '@static/images/about-us-hero.jpg';
-import AboutUsOne from '@static/images/about-us-one.png';
-import AboutUsTwo from '@static/images/about-us-two.png';
+import AboutUsHero from '@/static/images/about-us-hero.jpg';
+import AboutUsOne from '@/static/images/about-us-one.png';
+import AboutUsTwo from '@/static/images/about-us-two.png';
 
 
 function AboutPage() {

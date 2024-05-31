@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 import { FiMenu } from 'react-icons/fi'
 import { IoMdClose } from 'react-icons/io'
 //import { SoundscapeLogoImg } from '../../../utils/media.ts';
-import SoundscapeLogoImg from "@static/images/Soundscape_Logo.svg";
+import SoundscapeLogoImg from "@/static/images/Soundscape_Logo.svg";
 
 import Image from 'next/image';
 import { IoClose } from 'react-icons/io5';

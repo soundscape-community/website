@@ -11,7 +11,7 @@ import {
   SheetTrigger,
 } from "@/components/ui/sheet"
 import Image from "next/image"
-import SoundscapeLogoImg from "@static/images/Soundscape_Logo.svg";
+import SoundscapeLogoImg from "@/static/images/Soundscape_Logo.svg";
 import { useState } from "react";
 
 export function NavigationMenuSheet({
