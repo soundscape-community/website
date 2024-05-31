@@ -11,7 +11,7 @@ import wayFinding from '@/static/images/wayFinding.png';
 import beaconFeature from '@/static/images/beaconFeature.png';
 import bgApp from '@/static/images/bgApp.png';
 import buildings from '@/static/images/buildings.png';
-import OpenStreetMap from '@/static/images/OpenStreetMap.png';
+import OpenStreetMap from '@/static/images/openStreetmap.png';
 
 import Image from 'next/image';
 
