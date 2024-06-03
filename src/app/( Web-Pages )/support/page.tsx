@@ -15,7 +15,7 @@ function SupportPage() {
     {
       title: 'Is Soundscape Community available on both Android and Apple devices? ',
       content: `At this time, the Soundscape Community app is only available on iOS for Apple iPhones. However, it is our plan to bring it to Android devices as soon as possible. Please join our Discord community for regular updates.`,
-      link: "https://discordapp.com/channels/1114629295277625394/1122577762092339201",
+      link: "https://discord.gg/y7u5MpGCXk",
       linkText: "Join our Discord community for regular updates"
     },
     {

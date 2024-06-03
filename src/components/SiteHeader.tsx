@@ -16,7 +16,7 @@ function Header(){
         { name: 'Features', link: '/features', target: '_self', JSX: (<></>) },
         { name: 'About', link: '/about', target: '_self', JSX: (<></>) },
         { name: 'Support', link: '/support', target: '_self', JSX: (<></>) },
-        { name: 'New & Updates', link: '/news-updates', target: '_self', JSX: (<></>) },
+        { name: 'News & Updates', link: '/news-updates', target: '_self', JSX: (<></>) },
         { name: 'Privacy Policy', link: 'https://ialabs.ie/privacy-policy/', target: '_blank', JSX: ( <span className="screen-reader-only">(opens in a new tab)</span> ) },
     ]);
 

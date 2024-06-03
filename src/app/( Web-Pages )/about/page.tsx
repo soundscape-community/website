@@ -31,7 +31,7 @@ function AboutPage() {
                             laptop:object-hero-big-screen s-laptop:object-left-top
                             tablet:object-left-top mobile:object-left-top"
                     src={AboutUsHero}
-                    alt="picture of hand holiding up a phone with the Soundscape app open with panels illustrating what is being said by the application. In the background is a city street with people walking and buildings."
+                    alt="picture of hand holding up a phone with the Soundscape app open with panels illustrating what is being said by the application. In the background is a city street with people walking and buildings."
                 />
             </div>
             {/* ------------------------------------------------------------------------------------------------------------------------------------------------ */}
