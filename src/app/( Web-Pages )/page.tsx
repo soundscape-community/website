@@ -18,7 +18,7 @@ import featuresImageOne from "@/static/images/home-features-one.png"
 import featuresImageTwo from "@/static/images/home-features-two.png"
 import featuresImageThree from "@/static/images/home-features-three.png"
 
-import VI_LOGO from "@/static/images/vision-ireland-logo.png"
+import VI_LOGO from "@/static/images/logo-vi.png"
 
 
 export default function Home() {
