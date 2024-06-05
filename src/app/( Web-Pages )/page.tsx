@@ -58,8 +58,8 @@ export default function Home() {
       {/* ------------------------------------------------------------------------------------------------------------------------------------------------ */}
       <section id="consortium" className={`flex flex-col h-auto w-fill-available bg-navy-blue pb-8`} style={{ boxShadow: 'inset 0 0px 10px #000' }}>
         <h2 className="w-full text-white font-bold text-3xl text-center my-8 leading-8 px-4" >Meet the Soundscape Consortium</h2>
-        <div className="relative flex flex-wrap justify-center overflow-x-hidden gap-8">
-          <Image className="flex justify-center h-24 w-40 mx-12" src={VI_LOGO} alt="Vision Ireland Logo" />
+        <div className="relative flex flex-wrap items-center justify-center overflow-x-hidden gap-8">
+          <Image className="flex justify-center h-10 w-auto mx-12 grayscale" src={VI_LOGO} alt="Vision Ireland Logo" />
           <Image className="flex justify-center h-24 w-40 mx-12" src={IA_LABS_LOGO} alt="Inclusion and Accessibility Labs Logo" />
           <Image className="flex justify-center h-24 w-40 mx-12" src={RPI_LOGO} alt="Rensselaer Polytechnic Institute Logo"  />
           <Image className="flex justify-center h-24 w-40 mx-12" src={STS_LOGO} alt="Simplicity Tech Solutions Logo" />
