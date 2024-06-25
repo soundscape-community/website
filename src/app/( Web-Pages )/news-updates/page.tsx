@@ -12,7 +12,7 @@ function FeaturesPage() {
                     <div className="flex flex-col py-10  gap-6">
                         <h2 className="section-title-orange w-fit bg-transparent py-2 font-bold leading-normal text-orange lg:text-3xl text-2xl">News & Updates</h2>
                     </div>
-                    <div className="flex flex-row gap-16 flex-wrap text-lg font-poppins text-soundscape-dark-grey" >
+                    <div className="hidden flex-row gap-16 flex-wrap text-lg font-poppins text-soundscape-dark-grey" >
                         <button className="cursor-not-allowed" disabled>All (0)</button>
                         <button className="cursor-not-allowed" disabled>Articles (0)</button>
                         <button className="cursor-not-allowed" disabled>News (0)</button>
