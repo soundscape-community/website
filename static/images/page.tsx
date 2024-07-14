@@ -1,5 +1,5 @@
 "use client"
-import CampAbilitiesCoverImage from "@/static/images/cover-image.jpg"
+import CampAbilitiesCoverImage from "@/static/images/camp-abilities/cover-image.jpg"
 import Image from "next/image"
 import Link from "next/link";
 
