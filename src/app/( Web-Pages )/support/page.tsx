@@ -129,9 +129,9 @@ function SupportPage() {
   return (
   
         <section className="flex flex-col mt-header-gap py-16 gap-16
-          tv:px-16 desktop:px-16 laptop:px-16 s-laptop:px-12 tablet:px-6 mobile:px-3 ">
+          tv:px-16 desktop:px-16 laptop:px-16 s-laptop:px-12 tablet:px-6 mobile:px-6 ">
             <div className="flex flex-col gap-3">
-                <h2 className="section-title-orange w-fit bg-transparent py-2 font-bold text-orange text-3xl ">Support for Soundscape</h2>
+                <h2 className="section-title-orange w-fit bg-transparent py-2 font-bold text-orange text-3xl">Support for Soundscape</h2>
                 <p className="font-work-sans text-navy-blue font-medium  mr-4">Thoughtful input from our customers, partners and the community about the role technology can play to empower people has been a rewarding experience and enables us to continually improve our products and services. Please continue to share your experiences with Soundscape, and if you have questions or need additional support: </p>
                 <li className="h-auto w-fit text-navy-blue py-3 text-laptop font-semibold" >Ask questions and share feedback—select to Soundscape Community by contacting the Disability Answer Desk (Link Coming Soon).</li> 
                 <li className="h-auto w-fit text-navy-blue py-3 text-laptop font-semibold" >We want Soundscape Community to be accessible for everyone! Find accessibility support via the Disability Answer Desk (Link Coming Soon).</li> 
