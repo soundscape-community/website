@@ -1,5 +1,6 @@
 "use client"
 import CampAbilitiesCoverImage from "@/static/images/camp-abilities/cover-image.jpg"
+import IceSkating from "@/static/images/amsterdam-blog/amsterdam-ice-skating.jpg"
 import Image from "next/image"
 import Link from "next/link";
 
@@ -29,6 +30,16 @@ function FeaturesPage() {
                                     <h3 className="w-fit bg-transparent py-2 font-bold text-navy-blue text-lg">Camp Abilities Ireland 2024 - Orienteering</h3>
                                     <span className="font-work-sans font-semibold pb-4">July 14, 2024</span>
                                     <p className="font-work-sans text-navy-blue font-medium text-sm ">Set up in Ireland in 2010, adopted from the model established by Lauren Lieberman in New York, Camp Abilities is a Vision Sports Ireland annual residential sports and leisure activities camp for young people who are blind or vision impaired.</p>
+                                </div>
+                            </Link>
+                        </div>
+                        <div className="flex basis-full md:basis-1/2 xl:basis-1/3 h-auto">
+                            <Link href={"/news-updates/exploring-amsterdam-with-the-soundscape-community-app"} className="flex flex-col mx-4 bg-[#edeff3] overflow-hidden rounded-tr-[1.75rem] rounded-bl-[1.75rem]">
+                                <Image src={IceSkating} alt="An image of people skating on an ice rink in front of the Amsterdam train station building." className="w-full h-[14rem] object-cover " />
+                                <div className="flex flex-col px-6 pb-10 pt-3">
+                                    <h3 className="w-fit bg-transparent py-2 font-bold text-navy-blue text-lg">Exploring Amsterdam with the Soundscape Community app</h3>
+                                    <span className="font-work-sans font-semibold pb-4">August 4th, 2024</span>
+                                    <p className="font-work-sans text-navy-blue font-medium text-sm ">Amsterdam, Breakfast, Museums, and Soundscape Community - the perfect weekend!</p>
                                 </div>
                             </Link>
                         </div>
