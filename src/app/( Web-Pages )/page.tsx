@@ -44,13 +44,19 @@ export default function Home() {
                             tv:text-left desktop:text-left laptop:text-left  s-laptop:text-center  tablet:text-center  mobile:text-center">
                 Explore, discover, and have fun with your own 3D sound map of the world!
               </p>
-              <div className="flex tv:flex-row desktop:flex-row laptop:flex-row  s-laptop:flex-row  tablet:flex-col  mobile:flex-col gap-6">
-                <a className="h-auto w-52 bg-orange rounded-primary-btn flex justify-center items-center py-4 text-white text-lg font-semibold" href="https://gofund.me/608bb777" target="_blank">Donate</a>
+              <div className="flex tv:flex-row desktop:flex-row laptop:flex-row  s-laptop:flex-row  tablet:flex-col  mobile:flex-col gap-3 tablet:gap-6">
+                <a className="h-auto w-52 bg-orange rounded-primary-btn flex-col flex justify-center items-center py-4 text-white text-lg font-semibold" href="https://gofund.me/608bb777" target="_blank">
+                  <span className="text-sm">Donate to Support</span>
+                  Recreational Events
+                </a>
                 <a className="h-auto w-52 flex-col bg-navy-blue  rounded-primary-btn flex justify-center items-center py-4 text-white text-lg font-semibold" href="https://apps.apple.com/us/app/soundscape-community/id6449701760" target="_blank">
                   <span className="text-sm">Download on the</span>
                   App Store
                 </a>
-
+                <a className="h-auto w-52 bg-orange rounded-primary-btn flex-col flex justify-center items-center py-4 text-white text-lg font-semibold" href="https://www.gofundme.com/f/help-us-develop-and-grow-the-soundscape-community-app" target="_blank">
+                  <span className="text-sm">Donate to Support</span>
+                  App Development
+                </a>
               </div>
              
           </div>
