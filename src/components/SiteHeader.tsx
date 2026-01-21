@@ -17,7 +17,7 @@ function Header(){
         { name: 'About', link: '/about', target: '_self', JSX: (<></>) },
         { name: 'Support', link: '/support', target: '_self', JSX: (<></>) },
         { name: 'News & Updates', link: '/news-updates', target: '_self', JSX: (<></>) },
-        { name: 'Privacy Policy', link: 'https://vially.io/privacy-policy/', target: '_blank', JSX: ( <span className="screen-reader-only">(opens in a new tab)</span> ) },
+        { name: 'Privacy Policy', link: 'https://vially.io/privacy-policy', target: '_blank', JSX: ( <span className="screen-reader-only">(opens in a new tab)</span> ) },
         { name: 'Safe Sport Policy', link: 'https://thisabledsports.org/wp-content/uploads/2025/07/2025-mu-safe-sport-statement.pdf', target: '_blank', JSX: ( <span className="screen-reader-only">(opens document in a new tab)</span> )  }
     ]);
 
